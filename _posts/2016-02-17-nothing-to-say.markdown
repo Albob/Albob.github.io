@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Random Stuff"
+title:  "Ressources utiles pour le PHP"
 date:   2016-02-17 17:42:04 +0100
-categories: News
+categories: code
 ---
-Wow, so *nice* ! So **cool** !
+* [Bonnes pratiques](http://www.phptherightway.com/#top)
